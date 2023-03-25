@@ -1,2 +1,6 @@
 Hello, Welcome to github
 Learn git and Github
+to clone we use git clone code
+git push 
+git pull
+happy learning
